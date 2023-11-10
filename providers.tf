@@ -4,7 +4,7 @@ terraform {
     organization = "tf-se-test" # replace with your org
 
     workspaces {
-      name = "tf-test-vcs"
+      name = "tf-test-vcs-workflow"
     }
   }
 
